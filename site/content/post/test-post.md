@@ -1,7 +1,8 @@
 ---
 title: Test Post
-date: 2020-10-28T02:49:45.544Z
+date: 2020-10-28T02:52:58.511Z
 description: Intro to the test post
+image: img/bitcoin.jpg
 ---
 My favorite stocks are TSLA, LMND, SQ, NVDA, PLTR & AMZN.
 
